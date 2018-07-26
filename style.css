@@ -76,11 +76,11 @@ aside {
 }
 
 footer {
-    clear: both;
+    clear:both;
     overflow: auto;
     background: #ebebeb;
     height: 60px;
-    padding:40px;
-    width: 920px;
-    margin-left: 334px
+    margin-bottom: 10px;
+    padding-top:40px;x
+    
 }
